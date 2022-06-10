@@ -1,0 +1,19 @@
+C:\Users\ahmeturganci\Desktop\proje\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.Form1.resources
+C:\Users\ahmeturganci\Desktop\proje\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.Properties.Resources.resources
+C:\Users\ahmeturganci\Desktop\proje\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.csproj.GenerateResource.cache
+C:\Users\ahmeturganci\Desktop\proje\Personel_İs_Takip\Personel_İs_Takip\bin\Debug\Personel_İs_Takip.exe.config
+C:\Users\ahmeturganci\Desktop\proje\Personel_İs_Takip\Personel_İs_Takip\bin\Debug\Personel_İs_Takip.exe
+C:\Users\ahmeturganci\Desktop\proje\Personel_İs_Takip\Personel_İs_Takip\bin\Debug\Personel_İs_Takip.pdb
+C:\Users\ahmeturganci\Desktop\proje\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.exe
+C:\Users\ahmeturganci\Desktop\proje\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.pdb
+C:\Users\ahmeturganci\Desktop\proje\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.csprojAssemblyReference.cache
+C:\Users\ahmeturganci\Desktop\veritabanı yönetim modellemsi\19220013- İremnur Urgancı\Personel_İs_Takip\Personel_İs_Takip\bin\Debug\Personel_İs_Takip.exe.config
+C:\Users\ahmeturganci\Desktop\veritabanı yönetim modellemsi\19220013- İremnur Urgancı\Personel_İs_Takip\Personel_İs_Takip\bin\Debug\Personel_İs_Takip.exe
+C:\Users\ahmeturganci\Desktop\veritabanı yönetim modellemsi\19220013- İremnur Urgancı\Personel_İs_Takip\Personel_İs_Takip\bin\Debug\Personel_İs_Takip.pdb
+C:\Users\ahmeturganci\Desktop\veritabanı yönetim modellemsi\19220013- İremnur Urgancı\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.csproj.AssemblyReference.cache
+C:\Users\ahmeturganci\Desktop\veritabanı yönetim modellemsi\19220013- İremnur Urgancı\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.Form1.resources
+C:\Users\ahmeturganci\Desktop\veritabanı yönetim modellemsi\19220013- İremnur Urgancı\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.Properties.Resources.resources
+C:\Users\ahmeturganci\Desktop\veritabanı yönetim modellemsi\19220013- İremnur Urgancı\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.csproj.GenerateResource.cache
+C:\Users\ahmeturganci\Desktop\veritabanı yönetim modellemsi\19220013- İremnur Urgancı\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.csproj.CoreCompileInputs.cache
+C:\Users\ahmeturganci\Desktop\veritabanı yönetim modellemsi\19220013- İremnur Urgancı\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.exe
+C:\Users\ahmeturganci\Desktop\veritabanı yönetim modellemsi\19220013- İremnur Urgancı\Personel_İs_Takip\Personel_İs_Takip\obj\Debug\Personel_İs_Takip.pdb
